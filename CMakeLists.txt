@@ -3,4 +3,4 @@ project(qotd_client)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(qotd_client main.cpp qotd.h qotd.cpp connectsock.cpp UDP_send.cpp UDP_recv.cpp)
+add_executable(qotd_client main.cpp qotd.h qotd.cpp connectsock.cpp UDP_send.cpp UDP_recv.cpp wait.cpp)
