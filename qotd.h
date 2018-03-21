@@ -1,7 +1,7 @@
 #ifndef QOTD_CLIENT_QOTD_H
 #define QOTD_CLIENT_QOTD_H
 
-#include <winsock2.h>
+#include <WinSock2.h>
 
 const int MAX_SERVER_NAME = 128;
 const int MAX_HOST_SIZE = 32;
