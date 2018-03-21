@@ -1,6 +1,7 @@
 #include <iostream>
+#include "qotd.cpp";
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    run();
     return 0;
 }
